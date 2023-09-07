@@ -1,4 +1,4 @@
-## 🎮 **Frozen Lake Challenge: Using Reinforcement Learning (R.L.)**
+## 🎮 **Frozen Lake Challenge from OpenAi: Using Reinforcement Learning (R.L.)**
 
 <p align="center">
   <img src="https://github.com/AugustoPerboni/openAI-gym-frozen_lake/assets/120643495/862cf35b-5389-465e-9887-09f5a0a6b2d6" alt="Frozen Lake Image" width="50%">
